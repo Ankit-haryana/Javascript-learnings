@@ -1,0 +1,21 @@
+// let type = "hello";
+// console.log(typeof type);
+
+// let x = 10; //number
+// let changeX = String(x); //Number change to string
+// console.log(typeof changeX);
+
+// let a = true; //Boolen 
+// console.log(typeof a);
+// let changeA = String(a); //change Boolean to string
+// console.log(typeof changeA);
+
+// let a = "20"; //string
+// console.log(typeof a);
+// let changeA = Number(a); //change string to number
+// console.log(typeof changeA);
+
+// let a = "hello";
+// console.log(typeof a);
+// let changeA = Number(a);
+// console.log(typeof changeA);
